@@ -4,13 +4,13 @@
 ![Jupyter shield](https://img.shields.io/badge/-Jupyter-white?logo=Jupyter)
 
 
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)](www.google.com)
 
 
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ibd?style=social)
 
 
-![Reddit][(https://img.shields.io/reddit/subreddit-subscribers/IBS?style=social)(www.google.com)]
+![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IBS?style=social)(www.google.com)
 
 
 ![Reddir](https://img.shields.io/reddit/subreddit-subscribers/UlcerativeColitis?style=social)
