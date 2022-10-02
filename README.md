@@ -4,16 +4,16 @@
 ![Jupyter shield](https://img.shields.io/badge/-Jupyter-white?logo=Jupyter)
 
 
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)](www.google.com)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)]([www.google.com](https://www.reddit.com/r/CrohnsDisease/))
 
 
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ibd?style=social)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IBD?style=social)](https://www.reddit.com/r/IBD/)
 
 
-![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IBS?style=social)(www.google.com)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ibs?style=social)](https://www.reddit.com/r/ibs/)
 
 
-![Reddir](https://img.shields.io/reddit/subreddit-subscribers/UlcerativeColitis?style=social)
+[![Reddir](https://img.shields.io/reddit/subreddit-subscribers/UlcerativeColitis?style=social)](https://www.reddit.com/r/UlcerativeColitis/)
 
 
 
