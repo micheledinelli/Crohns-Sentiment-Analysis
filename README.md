@@ -5,8 +5,14 @@
 
 
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)
+
+
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/ibd?style=social)
+
+
 ![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IBS?style=social)
+
+
 ![Reddir](https://img.shields.io/reddit/subreddit-subscribers/UlcerativeColitis?style=social)
 
 
