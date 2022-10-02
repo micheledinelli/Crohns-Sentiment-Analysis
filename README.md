@@ -4,7 +4,7 @@
 ![Jupyter shield](https://img.shields.io/badge/-Jupyter-white?logo=Jupyter)
 
 
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)]([www.google.com](https://www.reddit.com/r/CrohnsDisease/))
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/CrohnsDisease?style=social)](https://www.reddit.com/r/CrohnsDisease/)
 
 
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IBD?style=social)](https://www.reddit.com/r/IBD/)
