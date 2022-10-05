@@ -40,6 +40,6 @@ username=""
 **Comments dataset**
 
 The comments dataset is larger than 100Mb, that's the github's size limit.
-You can find a small version of the dataset at `./comments_scraped/comments.csv`, anyway contact me for the full dataset or just run the script `./crohn_scraping_comments.ipynb`.  
+You may contact me for the full dataset or just run the script `./crohn_scraping_comments.ipynb`.  
 You'll wait a little bit...
 
